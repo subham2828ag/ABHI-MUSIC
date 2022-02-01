@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/ABHI-XD/MUSIC-OP",
+    "repository": "https://github.com/subham2828ag/MUSIC-OP",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
